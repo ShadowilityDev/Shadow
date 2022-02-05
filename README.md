@@ -6,7 +6,10 @@ Trainer Mod for GTA 5 (Single-player)
 
 <a href="https://www.gta5-mods.com/tools/scripthookv-net" rel="nofollow">Community Script Hook V .NET by crosire & contributors</a>
 
-# Versions
+# Changelog
+
+Version 0.0.7
+- Name change from ShadowMenu to Shadow
 
 Version 0.0.6
--Removed ScriptHookVDotNet2.dll file
+- Removed ScriptHookVDotNet2.dll file
